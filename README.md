@@ -2,7 +2,7 @@
 
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F01&lines=ＡＳＩＴＨＡ+ＭＤ+V3+ＷＨＡＴＳＡＰＰ+ＢＯＴ)](https://git.io/typing-svg)
-<img src="https://imgur.com/a/sznuRxS" height="90" width="100%">
+<img src="" height="90" width="100%">
 
 <p align="center">
 <a href="https://github.com/ASITHA-MD/BOT-NEW">
